@@ -1,2 +1,2 @@
-# Curr-culo
+# Curriculo
 Currículo 4 bimestre
